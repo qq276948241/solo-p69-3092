@@ -1,0 +1,12 @@
+{
+  "name": "ascii-dungeon",
+  "version": "1.0.0",
+  "description": "A 2D dungeon exploration game played in the terminal with ASCII graphics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["game", "dungeon", "ascii", "roguelike", "terminal"],
+  "author": "",
+  "license": "MIT"
+}
